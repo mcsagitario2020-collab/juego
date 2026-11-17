@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kubo — Juego de Bloques",
+  "description": "Juego clásico de bloques minimalista y sin anuncios con niveles progresivos, 3 piezas por turno y desafío diario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
